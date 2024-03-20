@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Parikshit, welcome to my GitHub profile
 
 ## About 
-- 💼 I am a Russell Heath Distinguished Postdoctoral Research Associate at the [Idaho National Laboratory](https://www.inl.gov)
+- 💼 I am a Russell Heath Distinguished Postdoctoral Research Associate at the [Idaho National Laboratory](https://www.inl.gov).
 - 🧑‍💻 I develop computational tools for multiphysics simulations of nuclear reactors. 
 
 ## Languages

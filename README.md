@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Parikshit, Welcome to my GitHub profile!
+# 👋 Hello, I’m Parikshit, welcome to my GitHub profile!
 
 ## About 
 - 💼 I am a Russell Heath Distinguished Postdoctoral Research Associate at the [Idaho National Laboratory](https://www.inl.gov).

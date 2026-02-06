@@ -6,7 +6,7 @@
 
 ## Languages
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" width="50" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/800px-TeX_logo.svg.png" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20" height="20">  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="20" height="20">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png" width="20" height="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" width="20" height="20">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/800px-TeX_logo.svg.png" height="20">
 
 <!---
 #### Stats

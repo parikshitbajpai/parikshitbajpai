@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Parikshit, welcome to my GitHub profile!
 
-## About 
+## About me
 - 💼 I am a Computational Scientist at the [Idaho National Laboratory](https://www.inl.gov).
 - 🧑‍💻 I develop computational tools for multiphysics simulations of nuclear reactors. 
 

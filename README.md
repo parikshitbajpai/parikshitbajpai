@@ -26,4 +26,41 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+# Hi, I'm Parikshit 👋
+
+## About Me
+
+I'm an engineer and researcher working at Idaho National Laboratory, focused on solving complex, real-world problems through technology. I enjoy working at the intersection of systems, data, and practical impact.
+
+* 🔬 Currently working on: High-impact engineering and research projects
+* 🧠 Interests: Systems thinking, scalable solutions, and applied innovation
+* ⚡ Strengths: Analytical problem-solving, learning fast, and executing under ambiguity
+
+## What I Work With
+
+* Programming: Python, C++, and modern engineering toolchains
+* Areas: Data systems, modeling, simulation, and applied research
+* Tools: Git, Linux, cloud and HPC environments
+
+## What Drives Me
+
+I’m motivated by work that actually matters — solving problems that have tangible impact, not just theoretical value. I care about building things that are robust, scalable, and useful in the real world.
+
+## Current Focus
+
+* Deepening expertise in advanced engineering systems
+* Building solutions that bridge research and production
+* Continuously improving technical and strategic thinking
+
+## Let’s Connect
+
+* GitHub: @parikshit-bajpai
+* Open to collaboration on meaningful technical projects
+
+---
+
+> "Build things that matter. Everything else is noise."
+
+
 --->

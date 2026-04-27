@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Parikshit, welcome to my GitHub profile!
+# 👋 Hello, I’m Parikshit!
 
 ## About me
 - 💼 I am a Computational Scientist at the [Idaho National Laboratory](https://www.inl.gov).
